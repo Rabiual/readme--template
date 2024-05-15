@@ -88,6 +88,6 @@ http://www.google.com
 ### Table syntext
 | Name | Email |
 |------|-------|
-|Rabiul | Text is here |
-|Rabiul | rabiualislam1971@gmail.com |
-|Bipul | Text is here |
+| Rabiul | Text is here |
+| Rabiul | rabiualislam1971@gmail.com |
+| Bipul | Text is here |
